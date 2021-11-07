@@ -1,0 +1,44 @@
+[
+    {   "key": "B002RL8IYK",
+        "name": "Mega Turkey",
+        "duration": "12 jan - 18 jan",
+        "description": "Lorem ipsum dolor sit amet, consecter adipisicing elit, sed do eiusmod tempor incididunt.",
+        "price": "$ 1200",
+        "img": "https://img.traveltriangle.com/blog/wp-content/uploads/2020/03/Places-To-Visit-In-Turkey-_7th-jun.jpg"
+    },
+    {   "key": "B002DWL8IYK",
+        "name": "The Holy City of Varanasi",
+        "duration": "12 jan - 18 jan",
+        "description": "Lorem ipsum dolor sit amet, consecter adipisicing elit, sed do eiusmod tempor incididunt.",
+        "price": "$ 800",
+        "img": "https://www.planetware.com/photos-large/IND/india-top-attractions-varanasi.jpg"
+    },
+    {   "key": "6502RL8IYK",
+        "name": "Perhentian Islands",
+        "duration": "12 jan - 18 jan",
+        "description": "Lorem ipsum dolor sit amet, consecter adipisicing elit, sed do eiusmod tempor incididunt.",
+        "price": "$ 1000",
+        "img": "https://www.planetware.com/wpimages/2019/10/malaysia-top-attractions-perhentian-islands.jpg"
+    },
+    {   "key": "B002RFAWK",
+        "name": "Penang Hill",
+        "duration": "12 jan - 18 jan",
+        "description": "Lorem ipsum dolor sit amet, consecter adipisicing elit, sed do eiusmod tempor incididunt.",
+        "price": "$ 1000",
+        "img": "https://www.planetware.com/wpimages/2019/10/malaysia-top-attractions-penang-hill.jpg"
+    },
+    {   "key": "FAWFAW684",
+        "name": "Sydney Opera House",
+        "duration": "12 jan - 18 jan",
+        "description": "Lorem ipsum dolor sit amet, consecter adipisicing elit, sed do eiusmod tempor incididunt.",
+        "price": "$ 1500",
+        "img": "https://www.planetware.com/photos-large/AUS/australia-new-south-wales-sydney-opera-house.jpg"
+    },
+    {   "key": "USEGEGS645",
+        "name": "Blue Mountains National Park",
+        "duration": "12 jan - 18 jan",
+        "description": "Lorem ipsum dolor sit amet, consecter adipisicing elit, sed do eiusmod tempor incididunt.",
+        "price": "$ 1200",
+        "img": "https://www.planetware.com/wpimages/2021/07/australia-top-attractions-blue-mountains-national-park.jpg"
+    }
+]        
